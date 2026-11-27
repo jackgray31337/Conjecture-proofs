@@ -1,4 +1,4 @@
-# A computer-assisted proof of Gvozdjak's graceful-path endpoint conjecture
+# Proof of Gvozdjak's graceful-path endpoint conjecture
 
 Research draft, 27 November 2026. The coverage lemma below is certified by exact integer-set arithmetic using libisl. The accompanying programs construct individual witnesses and check the coverage of the infinite domain. Independent review of the argument and priority is pending.
 
