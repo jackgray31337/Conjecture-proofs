@@ -4,7 +4,7 @@
 
 This directory contains a research draft claiming a constructive proof of the sufficiency direction of Gvozdjak's Conjecture 5.1.1. For every admissible ordered endpoint pair \((a,b)\) on labels \(0,\ldots,r-1\), it constructs a graceful permutation: every label appears once and consecutive absolute differences are exactly \(1,\ldots,r-1\).
 
-The argument is computer-assisted. Its coverage reductions use exact integer-set arithmetic with libisl; the accompanying Python programs construct witnesses and check the finite residual cases. The independent audit included here reports no mathematical gap in the induction. Publication priority and external specialist review have not been established, so treat this as a research draft for further scrutiny.
+Its coverage reductions use exact integer-set arithmetic with libisl; the accompanying Python programs construct witnesses and check the finite residual cases. The independent audit included here reports no mathematical gap in the induction. Publication priority and external specialist review have not been established, so treat this as a research draft for further scrutiny.
 
 ### Files
 
